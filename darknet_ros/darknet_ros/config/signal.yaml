@@ -1,0 +1,16 @@
+yolo_model:
+
+  config_file:
+    name: signal4_y.cfg            # signal3.cfg      # signal4_y.cfg
+  weight_file:
+    name: signal13_27000.weights   # signal12_28000.weights   # signal13_27000.weights
+  threshold:
+    value: 0.7
+  detection_classes:
+    names:
+    #- signal
+      - G
+      - R
+      - LG
+      - LR
+      - Y

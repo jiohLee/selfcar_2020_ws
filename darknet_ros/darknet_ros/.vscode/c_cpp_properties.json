@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/dramz/catkin_ws/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/dramz/catkin_ws/src/darknet_ros/darknet_ros/include/**",
+                "/home/dramz/catkin_ws/src/my_second_ros_pkg/include/**",
+                "/home/dramz/catkin_ws/src/ros_tutorials_topic/include/**",
+                "/home/dramz/catkin_ws/src/yolo_process/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

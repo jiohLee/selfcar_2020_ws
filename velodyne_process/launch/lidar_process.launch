@@ -1,0 +1,7 @@
+<launch>
+  <include file="$(find velodyne_pointcloud)/launch/VLP16_points.launch">
+  </include>
+  <!-- <node name="HeightMap" pkg="velodyne_process" type="velodyne_process" respawn="true"/> -->
+  <node name="velodyne_process" pkg="velodyne_process" type="velodyne_process" respawn="true"/>
+ 
+</launch>
