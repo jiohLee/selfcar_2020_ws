@@ -7,4 +7,4 @@
 
 2019년도 대회 영상: [영상1](https://www.youtube.com/watch?v=GR5q7gsZQpo), [영상2](https://www.youtube.com/watch?v=rYABACjFTW8)
 
-2020년도 대회 영상: [영상2](https://youtu.be/cSeR0a__Rj0?t=3820)
+2020년도 대회 영상: [영상3](https://youtu.be/cSeR0a__Rj0?t=3820)
